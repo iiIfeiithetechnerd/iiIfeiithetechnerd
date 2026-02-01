@@ -1,10 +1,10 @@
-## Hello there (≧∇≦)ﾉ
+<h3 style="font-family: 'Courier New', monospace;"> Hello there (≧∇≦)ﾉ</h3>
 
-## How are you today?
+<h3 style="font-family: 'Courier New', monospace;"> How are you today? </h3>
 
 Anyways, thank you so much dor checking out my bio! ☆*: .｡. o(≧▽≦)o .｡.:*☆ I love tech, programming, cybersecurity, gaming and art! ✨I love to challenge myself with a bit of everything. ✨ (‾◡◝)
 
-## Some random things you HAVE to read (or not... :]  )
+ <h3 style="font-family: 'Courier New', monospace;">Some random things you HAVE to read (or not... :]  ) </h3>
 
 
 - As or right now, I am working on a neural network program for the Raspberry Pi Zero W! While it is still in the very early stages of development, right now it uses a tflite model to calculate the voltage output based on gathered data from many computer parts!
