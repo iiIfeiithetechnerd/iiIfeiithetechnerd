@@ -13,3 +13,10 @@ Anyways, thank you so much dor checking out my bio! ☆*: .｡. o(≧▽≦)o .�
 - Ask me about anything as lonh as it is not innappropriate!
 - Pronouns: She/Her/They
 - Fun fact: Miss construction makes you move
+
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com" media="(prefers-color-scheme: light)">
+  <source srcset="https://raw.githubusercontent.com" media="(prefers-color-scheme: dark)">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com">
+</picture>
