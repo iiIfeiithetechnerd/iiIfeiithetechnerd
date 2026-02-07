@@ -10,7 +10,7 @@ Anyways, thank you so much for checking out my bio! ☆*: .｡. o(≧▽≦)o .�
 - As of right now, I am working on a neural network program for the Raspberry Pi Zero W! While it is still in the very early stages of development, right now it uses a tflite model to calculate the voltage output based on gathered data from many computer parts!
       over time, the data will become less biased, and users will be able to create their own voltage outputs very soon. The software must run with a portable hydropower system in order for this to work.
 - I am learning SQL, Java, Swift, and C++, but I make projects even with programming languages that I am still learning!
-- Ask me about anything as lonh as it is not innappropriate!
+- Ask me about anything as long as it is not innappropriate!
 - Pronouns: She/Her/They
 - Fun fact: Miss construction makes you move
 
