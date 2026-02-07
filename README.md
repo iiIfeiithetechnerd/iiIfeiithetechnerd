@@ -13,6 +13,7 @@ Anyways, thank you so much for checking out my bio! ☆*: .｡. o(≧▽≦)o .�
 - Ask me about anything as long as it is not innappropriate!
 - Pronouns: She/Her/They
 - Fun fact: Miss construction makes you move
+- I use Arch btw :3 
 
 
 <picture>
