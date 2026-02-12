@@ -18,6 +18,6 @@ Anyways, thank you so much for checking out my bio! ☆*: .｡. o(≧▽≦)o .�
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/iiIfeiithetechnerd/iiIfeiithetechnerd/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: dark)">
-  <source srcset="https://raw.githubusercontent.com/iiIfeiithetechnerd/iiIfeiithetechnerd/output/github-contribution-grid-snake-light.svg" media="(prefers-color-scheme: light)">
+  <source srcset="https://raw.githubusercontent.com/iiIfeiithetechnerd/iiIfeiithetechnerd/output/github-contribution-grid-snake-light.svg" media="(prefers-color-scheme: dark)">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iiIfeiithetechnerd/iiIfeiithetechnerd/output/github-contribution-grid-snake.svg">
 </picture>
