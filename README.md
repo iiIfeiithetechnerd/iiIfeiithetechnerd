@@ -13,9 +13,8 @@ Anyways, thank you so much for checking out my bio! ☆*: .｡. o(≧▽≦)o .�
 - Pronouns: She/Her/They
 - I use Arch btw :D
 
+![ASM](https://img.shields.io/badge/badge_content?style=for-the-badge&logo=ASM&logoColor=%23ff0000&logoSize=auto&label=ASM&labelColor=%23290404&color=%23ffffff&cacheSeconds=2)
 
-![JavaScript](https://shields.io)
-![React](https://shields.io)
 
 
 
