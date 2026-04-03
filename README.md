@@ -1,6 +1,6 @@
 <h3 style="font-family: 'Courier New', monospace;"> Hello there (≧∇≦)ﾉ</h3>
 
-<h3 style="font-family: 'Courier New', monospace;"> How are you today? </h3>
+<h3 style="font-family: 'Courier New', monospace;"> How are you today? Are you... perhaps feeling... excited? </h3>
 
 Anyways, thank you so much for checking out my bio! ☆*: .｡. o(≧▽≦)o .｡.:*☆ I love tech, programming, cybersecurity, gaming and art! ✨I love to challenge myself with a bit of everything. ✨ (‾◡◝)
 
@@ -9,11 +9,14 @@ Anyways, thank you so much for checking out my bio! ☆*: .｡. o(≧▽≦)o .�
 
 - As of right now, I am working on a neural network program for the Raspberry Pi Zero W! While it is still in the very early stages of development, right now it uses a tflite model to calculate the voltage output based on gathered data from many computer parts!
       over time, the data will become less biased, and users will be able to create their own voltage outputs very soon. The software must run with a portable hydropower system in order for this to work.
-- I am learning SQL, Java, Swift, and C++, but I make projects even with programming languages that I am still learning!
 - Ask me about anything as long as it is not innappropriate!
 - Pronouns: She/Her/They
-- Fun fact: Miss construction makes you move
-- I use Arch btw :3 
+- I use Arch btw :D
+
+
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+
 
 
 <picture>
