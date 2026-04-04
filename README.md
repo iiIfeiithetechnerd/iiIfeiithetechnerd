@@ -13,7 +13,7 @@ Anyways, thank you so much for checking out my bio! ☆*: .｡. o(≧▽≦)o .�
 - Pronouns: She/Her/They
 - I use Arch btw :D
 
-![ASM](https://img.shields.io/badge/badge_content?style=for-the-badge&logo=ASM&logoColor=%23ff0000&logoSize=auto&label=ASM&labelColor=%23290404&color=%23ffffff&cacheSeconds=2)
+<img src="https://soranews24.com/wp-content/uploads/sites/3/2014/12/pixel-art-11.gif?w=500" alt="gif of girl hitting a key on a laptop">
 
 
 
