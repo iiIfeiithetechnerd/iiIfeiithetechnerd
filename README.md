@@ -12,7 +12,7 @@ Anyways, thank you so much for checking out my bio! ☆*: .｡. o(≧▽≦)o .�
 - Ask me about anything as long as it is not innappropriate!
 - Pronouns: She/Her/They
 - I use Arch btw :D
-
+- Is Java and JavaScript the same? Absolutely not 
 <img src="https://soranews24.com/wp-content/uploads/sites/3/2014/12/pixel-art-11.gif?w=500" alt="gif of girl hitting a key on a laptop">
 
 
