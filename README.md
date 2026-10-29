@@ -1,6 +1,6 @@
 <h3 style="font-family: 'Courier New', monospace;"> Hello there (≧∇≦)ﾉ</h3>
 
-<h3 style="font-family: 'Courier New', monospace;"> How are you today? Are you... perhaps feeling... excited? </h3>
+<h3 style="font-family: 'Courier New', monospace;"> How are you today?</h3>
 
 Anyways, thank you so much for checking out my bio! ☆*: .｡. o(≧▽≦)o .｡.:*☆ I love tech, programming, cybersecurity, gaming and art! ✨I love to challenge myself with a bit of everything. ✨ (‾◡◝)
 
